@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+D:\My-Github\compiler\Gui\MyForm.cpp(7,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+D:\My-Github\compiler\Gui\MyForm.h(476,1): warning C4715: 'Gui::MyForm::SyntaxCode': not all control paths return a value
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Gui.vcxproj -> D:\My-Github\compiler\Gui\x64\Debug\Gui.exe

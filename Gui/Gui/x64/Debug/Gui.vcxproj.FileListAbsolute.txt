@@ -1,0 +1,3 @@
+D:\My-Github\compiler\Gui\Gui\x64\Debug\Gui.vcxproj.AssemblyReference.cache
+D:\My-Github\compiler\Gui\Gui\x64\Debug\Gui.MyForm.resources
+D:\My-Github\compiler\Gui\Gui\x64\Debug\Gui.vcxproj.GenerateResource.cache
